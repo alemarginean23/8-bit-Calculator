@@ -1,0 +1,57 @@
+Active-HDL 13.0.376.8320 2022-06-21 14:42:14
+
+Elaboration top modules:
+Architecture                  tb_a(tb)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Entity                         | Architecture                     | Library    | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------------------------------------------------
+tb                             | tb_a                             | calculator |      | 13.0.376.8320 (Windows64) | -O3
+computer                       | computer_a                       | calculator |      | 13.0.376.8320 (Windows64) | -O3
+Counter60HZ                    | Counter60HZ_a                    | calculator |      | 13.0.376.8320 (Windows64) | -O3
+Counter1Sec                    | Counter1Sec_a                    | calculator |      | 13.0.376.8320 (Windows64) | -O3
+Mux818bit                      | Mux818bit_a                      | calculator |      | 13.0.376.8320 (Windows64) | -O3
+Mux814bit                      | Mux814bit_a                      | calculator |      | 13.0.376.8320 (Windows64) | -O3
+DisplayDecoder                 | DisplayDecoder_a                 | calculator |      | 13.0.376.8320 (Windows64) | -O3
+DetermineSignValueInHex        | DetermineSignValueInHex_a        | calculator |      | 13.0.376.8320 (Windows64) | -O3
+InputNumber                    | InputNumber_a                    | calculator |      | 13.0.376.8320 (Windows64) | -O3
+BinaryToDecimal                | BinaryToDecimal_a                | calculator |      | 13.0.376.8320 (Windows64) | -O3
+DFF8bit                        | DFF8bit_a                        | calculator |      | 13.0.376.8320 (Windows64) | -O3
+Mux418bit                      | Mux418bit_a                      | calculator |      | 13.0.376.8320 (Windows64) | -O3
+DFF1bit                        | DFF1bit_a                        | calculator |      | 13.0.376.8320 (Windows64) | -O3
+mux41_1BIT                     | mux41_1BIT_a                     | calculator |      | 13.0.376.8320 (Windows64) | -O3
+DecimalToBinary                | DecimalToBinary_a                | calculator |      | 13.0.376.8320 (Windows64) | -O3
+ChangeState                    | ChangeState_a                    | calculator |      | 13.0.376.8320 (Windows64) | -O3
+ChooseOperationAndReturnResult | ChooseOperationAndReturnResult_a | calculator |      | 13.0.376.8320 (Windows64) | -O3
+comparator_8bit                | comparator_8bit_a                | calculator |      | 13.0.376.8320 (Windows64) | -O3
+ControlUnitAdunatorScazator    | ControlUnitAdunatorScazator_a    | calculator |      | 13.0.376.8320 (Windows64) | -O3
+mux41_8BIT                     | mux41_8BIT_a                     | calculator |      | 13.0.376.8320 (Windows64) | -O3
+Mux218bit                      | Mux218bit_a                      | calculator |      | 13.0.376.8320 (Windows64) | -O3
+Mux211bit                      | Mux211bit_a                      | calculator |      | 13.0.376.8320 (Windows64) | -O3
+bit_adder_8                    | bit_adder_8_a                    | calculator |      | 13.0.376.8320 (Windows64) | -O3
+bit_subtractor_8               | bit_subtractor_8_a               | calculator |      | 13.0.376.8320 (Windows64) | -O3
+multiplication                 | multiplication_a                 | calculator |      | 13.0.376.8320 (Windows64) | -O3
+division                       | division_a                       | calculator |      | 13.0.376.8320 (Windows64) | -O3
+bit_adder_1                    | bit_adder_1_a                    | calculator |      | 13.0.376.8320 (Windows64) | -O3
+bit_subtractor_1               | bit_subtractor_1_a               | calculator |      | 13.0.376.8320 (Windows64) | -O3
+----------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------
+VHDL Package                                                      | Library    | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------------------------------------------------
+standard                                                          | std        |      |                           | <unavailable>
+TEXTIO                                                            | std        |      | 13.0.376.8320 (Windows64) |  -2019
+std_logic_1164                                                    | ieee       |      | 13.0.376.8320 (Windows64) |  -2008
+std_logic_arith                                                   | ieee       |      | 13.0.376.8320 (Windows64) | <unavailable>
+STD_LOGIC_UNSIGNED                                                | ieee       |      | 13.0.376.8320 (Windows64) | <unavailable>
+NUMERIC_STD                                                       | ieee       |      | 13.0.376.8320 (Windows64) |  -2008
+----------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Library                                                           | Comment
+----------------------------------------------------------------------------------------------------------------------------------------
+calculator                                                        | None
+ieee                                                              | Standard IEEE packages library
+std                                                               | Standard VHDL library
+----------------------------------------------------------------------------------------------------------------------------------------

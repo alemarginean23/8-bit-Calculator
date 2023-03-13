@@ -1,0 +1,1 @@
+-w -erf D:/Data/CTI_1/sem2/Calculator/Calculator/compile/Calculator.erf -d D:/Data/CTI_1/sem2/Calculator/Calculator/compile -s D:/Data/CTI_1/sem2/Calculator/Calculator/library.cfg -j D:/Data/CTI_1/sem2/Calculator/Calculator/projlib.cfg -work Calculator -O3 -e 100 -work Calculator -2002 D:/Data/CTI_1/sem2/Calculator/Calculator/src/main.vhd 
